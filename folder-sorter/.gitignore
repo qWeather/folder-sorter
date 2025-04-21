@@ -21,6 +21,7 @@ dist/
 *.user
 *.suo
 *.userosscache
+*.sln
 *.sln.docstates
 
 # System files
